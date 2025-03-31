@@ -1,0 +1,19 @@
+<div class="container">
+  <input
+    type="text"
+    placeholder="Search products..."
+    [(ngModel)]="searchTerm"
+    (input)="filterProducts()"
+    class="search-box"
+  />
+
+  <div class="grid">
+    @for (product of filteredProducts; track product.id) {
+      <div class="card">
+        <img [src]="product.image" alt="{{ product.title }}" />
+        <h3>{{ product.title }}</h3>
+        <p>{{ product.price }}</p>
+      </div>
+    }
+  </div>
+</div>

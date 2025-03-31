@@ -1,0 +1,50 @@
+{
+    "products": [
+      {
+        "id": 7,
+        "name": "This is important to remember.",
+        "description": "Love isn't like pie. You don't need to divide it among all your friends and loved ones.",
+        "tags": ["magical", "crime"],
+        "likes": 127,
+        "dislikes": 26,
+        "views": 168
+      },
+      {
+        "id": 39,
+        "name": "It was so great to hear from you today",
+        "description": "This is going to sound funny and a little strange, but you were in a dream I had just a couple of days ago.",
+        "tags": ["french", "magical", "american"],
+        "likes": 772,
+        "dislikes": 39,
+        "views": 1129
+      },
+      {
+        "id": 55,
+        "name": "She tried to explain that love wasn't like pie.",
+        "description": "There wasn't a set number of slices to be given out.",
+        "tags": ["mystery", "crime", "fiction"],
+        "likes": 56,
+        "dislikes": 46,
+        "views": 380
+      },
+      {
+        "id": 102,
+        "name": "Being in high school, Miles had no idea",
+        "description": "There were girls in the world who might be nice to some boy who'd suffered the misfortune of falling in love with them.",
+        "tags": ["love", "american", "english"],
+        "likes": 1091,
+        "dislikes": 11,
+        "views": 1397
+      },
+      {
+        "id": 104,
+        "name": "Each failed overture of peace made the next",
+        "description": "Before long, Gary realized their marriage lacked sufficient love and goodwill.",
+        "tags": ["american", "english", "crime"],
+        "likes": 1049,
+        "dislikes": 29,
+        "views": 4033
+      }
+    ]
+  }
+  
